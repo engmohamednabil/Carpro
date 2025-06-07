@@ -1,0 +1,12 @@
+C:\projects\carpro\Carpro.Domain\bin\Debug\net8.0\Carpro.Domain.deps.json
+C:\projects\carpro\Carpro.Domain\bin\Debug\net8.0\Carpro.Domain.dll
+C:\projects\carpro\Carpro.Domain\bin\Debug\net8.0\Carpro.Domain.pdb
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.AssemblyInfoInputs.cache
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.AssemblyInfo.cs
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.csproj.CoreCompileInputs.cache
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.sourcelink.json
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.dll
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\refint\Carpro.Domain.dll
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\Carpro.Domain.pdb
+C:\projects\carpro\Carpro.Domain\obj\Debug\net8.0\ref\Carpro.Domain.dll

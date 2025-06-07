@@ -1,0 +1,382 @@
+2025-06-07 15:24:25.471 +02:00 [INF] Starting web application
+2025-06-07 15:24:27.021 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 15:24:27.027 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 15:24:27.173 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 15:24:27.176 +02:00 [INF] Hosting environment: Development
+2025-06-07 15:24:27.178 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:18:42.077 +02:00 [INF] Starting web application
+2025-06-07 17:18:43.874 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:18:43.882 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:18:44.040 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:18:44.043 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:18:44.045 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:18:44.931 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger - null null
+2025-06-07 17:18:45.214 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger - 301 0 null 300.269ms
+2025-06-07 17:18:45.223 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:18:45.360 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 136.4638ms
+2025-06-07 17:18:45.369 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/swagger-ui.css - null null
+2025-06-07 17:18:45.377 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-07 17:18:45.377 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/swagger-ui-bundle.js - null null
+2025-06-07 17:18:45.463 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-07 17:18:45.464 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-07 17:18:45.475 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/swagger-ui.css - 200 152034 text/css 106.5194ms
+2025-06-07 17:18:45.475 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 98.1185ms
+2025-06-07 17:18:45.501 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-07 17:18:45.505 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 128.8192ms
+2025-06-07 17:18:45.903 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:18:45.903 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:18:45.925 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 22.8814ms
+2025-06-07 17:18:46.000 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 98.0507ms
+2025-06-07 17:18:46.309 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:18:46.326 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.117ms
+2025-06-07 17:18:46.345 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/favicon-32x32.png - null null
+2025-06-07 17:18:46.356 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-06-07 17:18:46.362 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/favicon-32x32.png - 200 628 image/png 18.376ms
+2025-06-07 17:20:30.926 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:20:30.971 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 47.104ms
+2025-06-07 17:20:31.032 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:20:31.053 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 21.6515ms
+2025-06-07 17:20:31.180 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:20:31.210 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.0675ms
+2025-06-07 17:20:31.640 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:20:31.651 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.5613ms
+2025-06-07 17:20:40.709 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/0000 - null null
+2025-06-07 17:20:40.724 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:20:40.777 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:20:40.806 +02:00 [INF] Getting vehicle with registration number 0
+2025-06-07 17:20:40.988 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 202.4292ms
+2025-06-07 17:20:40.992 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:20:41.019 +02:00 [ERR] An unhandled exception has occurred: One or more validation failures have occurred.
+Carpro.Application.Common.Exceptions.ValidationException: One or more validation failures have occurred.
+   at Carpro.Application.Common.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\ValidationBehavior.cs:line 38
+   at Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum(Int32 regNum) in C:\projects\carpro\Carpro.Api\Controllers\VehiclesController.cs:line 38
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Carpro.Api.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in C:\projects\carpro\Carpro.Api\Middleware\ExceptionHandlingMiddleware.cs:line 31
+2025-06-07 17:20:41.134 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/0000 - 400 null application/json 426.8964ms
+2025-06-07 17:22:50.881 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/45634 - null null
+2025-06-07 17:22:50.892 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:22:50.894 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:22:50.901 +02:00 [INF] Getting vehicle with registration number 45634
+2025-06-07 17:22:52.114 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 1214.2206ms
+2025-06-07 17:22:52.116 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:22:52.140 +02:00 [ERR] An unhandled exception has occurred: Entity "Vehicle" (45634) was not found.
+Carpro.Application.Common.Exceptions.NotFoundException: Entity "Vehicle" (45634) was not found.
+   at Carpro.Application.Vehicles.Queries.GetVehicleByRegNum.GetVehicleByRegNumQueryHandler.Handle(GetVehicleByRegNumQuery request, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Vehicles\Queries\GetVehicleByRegNum\GetVehicleByRegNumQueryHandler.cs:line 26
+   at Carpro.Application.Common.Behaviors.PerformanceBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\PerformanceBehavior.cs:line 28
+   at Carpro.Application.Common.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\ValidationBehavior.cs:line 42
+   at Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum(Int32 regNum) in C:\projects\carpro\Carpro.Api\Controllers\VehiclesController.cs:line 38
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Carpro.Api.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in C:\projects\carpro\Carpro.Api\Middleware\ExceptionHandlingMiddleware.cs:line 31
+2025-06-07 17:22:52.170 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/45634 - 404 null application/json 1290.4036ms
+2025-06-07 17:25:22.707 +02:00 [INF] Starting web application
+2025-06-07 17:25:24.193 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:25:24.199 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:25:24.366 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:25:24.368 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:25:24.370 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:25:26.055 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:25:26.506 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 469.5713ms
+2025-06-07 17:25:26.759 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:25:26.759 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:25:26.774 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 15.4564ms
+2025-06-07 17:25:26.844 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 85.9357ms
+2025-06-07 17:25:27.025 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:25:27.043 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 18.3696ms
+2025-06-07 17:25:36.553 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/1352 - null null
+2025-06-07 17:25:36.574 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:25:36.633 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:25:36.667 +02:00 [INF] Getting vehicle with registration number 1352
+2025-06-07 17:26:08.120 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 31476.7883ms
+2025-06-07 17:26:08.133 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:28:46.027 +02:00 [ERR] An unhandled exception has occurred: Entity "Vehicle" (1352) was not found.
+Carpro.Application.Common.Exceptions.NotFoundException: Entity "Vehicle" (1352) was not found.
+   at Carpro.Application.Vehicles.Queries.GetVehicleByRegNum.GetVehicleByRegNumQueryHandler.Handle(GetVehicleByRegNumQuery request, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Vehicles\Queries\GetVehicleByRegNum\GetVehicleByRegNumQueryHandler.cs:line 26
+   at Carpro.Application.Common.Behaviors.PerformanceBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\PerformanceBehavior.cs:line 28
+   at Carpro.Application.Common.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\ValidationBehavior.cs:line 42
+   at Carpro.Api.Controllers.VehiclesController.<GetVehicleByRegNum>d__3.MoveNext()
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Carpro.Api.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context)
+2025-06-07 17:28:46.131 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/1352 - 404 null application/json 189578.1614ms
+2025-06-07 17:28:47.070 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:28:47.113 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 40.0729ms
+2025-06-07 17:28:47.178 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:28:47.189 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 33.3862ms
+2025-06-07 17:28:47.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:28:47.375 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.1304ms
+2025-06-07 17:28:47.650 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:28:47.665 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-07 17:28:47.677 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 27.4854ms
+2025-06-07 17:28:55.631 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:28:55.645 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 14.7242ms
+2025-06-07 17:28:55.670 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:28:55.678 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 9.2295ms
+2025-06-07 17:28:55.697 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:28:55.722 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.1735ms
+2025-06-07 17:28:55.852 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:28:55.862 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-07 17:28:55.872 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 20.8927ms
+2025-06-07 17:29:19.216 +02:00 [INF] Starting web application
+2025-06-07 17:29:20.769 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:29:20.774 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:29:20.949 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:29:20.952 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:29:20.955 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:29:22.643 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:29:23.109 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 484.522ms
+2025-06-07 17:29:23.410 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:29:23.410 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:29:23.423 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 13.8096ms
+2025-06-07 17:29:23.497 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 87.5249ms
+2025-06-07 17:29:23.711 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:29:23.734 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.8742ms
+2025-06-07 17:29:32.793 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/1235 - null null
+2025-06-07 17:29:32.813 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:29:32.871 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:29:32.911 +02:00 [INF] Getting vehicle with registration number 1235
+2025-06-07 17:30:43.738 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 70856.8624ms
+2025-06-07 17:30:43.743 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:30:43.772 +02:00 [ERR] An unhandled exception has occurred: Entity "Vehicle" (1235) was not found.
+Carpro.Application.Common.Exceptions.NotFoundException: Entity "Vehicle" (1235) was not found.
+   at Carpro.Application.Vehicles.Queries.GetVehicleByRegNum.GetVehicleByRegNumQueryHandler.Handle(GetVehicleByRegNumQuery request, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Vehicles\Queries\GetVehicleByRegNum\GetVehicleByRegNumQueryHandler.cs:line 26
+   at Carpro.Application.Common.Behaviors.PerformanceBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\PerformanceBehavior.cs:line 28
+   at Carpro.Application.Common.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\ValidationBehavior.cs:line 42
+   at Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum(Int32 regNum) in C:\projects\carpro\Carpro.Api\Controllers\VehiclesController.cs:line 38
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Carpro.Api.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in C:\projects\carpro\Carpro.Api\Middleware\ExceptionHandlingMiddleware.cs:line 31
+2025-06-07 17:30:43.859 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/1235 - 404 null application/json 71066.7149ms
+2025-06-07 17:34:19.839 +02:00 [INF] Starting web application
+2025-06-07 17:34:21.376 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:34:21.382 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:34:21.544 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:34:21.547 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:34:21.549 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:34:22.212 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:34:22.524 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 324.1263ms
+2025-06-07 17:34:22.536 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:34:22.561 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 26.0874ms
+2025-06-07 17:34:22.691 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:34:22.764 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 73.825ms
+2025-06-07 17:34:23.119 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:34:23.145 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 26.7192ms
+2025-06-07 17:35:03.366 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/45634 - null null
+2025-06-07 17:35:03.389 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:35:03.435 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:35:03.463 +02:00 [INF] Getting vehicle with registration number 45634
+2025-06-07 17:35:04.653 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 1209.6396ms
+2025-06-07 17:35:04.656 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:35:04.681 +02:00 [ERR] An unhandled exception has occurred: Entity "Vehicle" (45634) was not found.
+Carpro.Application.Common.Exceptions.NotFoundException: Entity "Vehicle" (45634) was not found.
+   at Carpro.Application.Vehicles.Queries.GetVehicleByRegNum.GetVehicleByRegNumQueryHandler.Handle(GetVehicleByRegNumQuery request, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Vehicles\Queries\GetVehicleByRegNum\GetVehicleByRegNumQueryHandler.cs:line 26
+   at Carpro.Application.Common.Behaviors.PerformanceBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\PerformanceBehavior.cs:line 28
+   at Carpro.Application.Common.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\ValidationBehavior.cs:line 42
+   at Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum(Int32 regNum) in C:\projects\carpro\Carpro.Api\Controllers\VehiclesController.cs:line 38
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Carpro.Api.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in C:\projects\carpro\Carpro.Api\Middleware\ExceptionHandlingMiddleware.cs:line 31
+2025-06-07 17:35:04.778 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/45634 - 404 null application/json 1412.235ms
+2025-06-07 17:35:15.275 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/66832 - null null
+2025-06-07 17:35:15.283 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:35:15.285 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:35:15.290 +02:00 [INF] Getting vehicle with registration number 66832
+2025-06-07 17:35:15.470 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 181.0512ms
+2025-06-07 17:35:15.474 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:35:15.501 +02:00 [ERR] An unhandled exception has occurred: Entity "Vehicle" (66832) was not found.
+Carpro.Application.Common.Exceptions.NotFoundException: Entity "Vehicle" (66832) was not found.
+   at Carpro.Application.Vehicles.Queries.GetVehicleByRegNum.GetVehicleByRegNumQueryHandler.Handle(GetVehicleByRegNumQuery request, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Vehicles\Queries\GetVehicleByRegNum\GetVehicleByRegNumQueryHandler.cs:line 26
+   at Carpro.Application.Common.Behaviors.PerformanceBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\PerformanceBehavior.cs:line 28
+   at Carpro.Application.Common.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in C:\projects\carpro\Carpro.Application\Common\Behaviors\ValidationBehavior.cs:line 42
+   at Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum(Int32 regNum) in C:\projects\carpro\Carpro.Api\Controllers\VehiclesController.cs:line 38
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Carpro.Api.Middleware.ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in C:\projects\carpro\Carpro.Api\Middleware\ExceptionHandlingMiddleware.cs:line 31
+2025-06-07 17:35:15.512 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/66832 - 404 null application/json 237.7835ms
+2025-06-07 17:38:40.546 +02:00 [INF] Starting web application
+2025-06-07 17:38:42.050 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:38:42.055 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:38:42.204 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:38:42.207 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:38:42.209 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:38:43.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:38:44.055 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 467.2987ms
+2025-06-07 17:38:44.336 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:38:44.336 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:38:44.369 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 33.2675ms
+2025-06-07 17:38:44.423 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 87.0496ms
+2025-06-07 17:38:44.629 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:38:44.653 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 24.8783ms
+2025-06-07 17:39:14.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/36436 - null null
+2025-06-07 17:39:14.610 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:39:14.656 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:39:14.685 +02:00 [INF] Getting vehicle with registration number 36436
+2025-06-07 17:50:17.217 +02:00 [INF] Starting web application
+2025-06-07 17:50:18.813 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:50:18.825 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:50:19.053 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:50:19.056 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:50:19.058 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:50:19.450 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:50:19.779 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 344.9626ms
+2025-06-07 17:50:20.117 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:50:20.117 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:50:20.139 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 22.7254ms
+2025-06-07 17:50:20.219 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 102.614ms
+2025-06-07 17:50:20.438 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:50:20.460 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.0319ms
+2025-06-07 17:50:50.229 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/45634 - null null
+2025-06-07 17:50:50.253 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:50:50.301 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:50:50.332 +02:00 [INF] Getting vehicle with registration number 45634
+2025-06-07 17:50:51.370 +02:00 [INF] Saved 9 entities to in-memory store.
+2025-06-07 17:51:07.276 +02:00 [WRN] Long Running Request: GetVehicleByRegNumQuery (16898 milliseconds) {"RegNum":45634,"$type":"GetVehicleByRegNumQuery"}
+2025-06-07 17:51:07.296 +02:00 [INF] Executing OkObjectResult, writing value of type 'Carpro.Application.Vehicles.DTOs.VehicleDto'.
+2025-06-07 17:51:07.317 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 17006.2202ms
+2025-06-07 17:51:07.319 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:51:07.326 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/45634 - 200 null application/json; charset=utf-8 17100.2975ms
+2025-06-07 17:52:28.925 +02:00 [INF] Starting web application
+2025-06-07 17:52:29.561 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:52:29.566 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:52:29.694 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:52:29.697 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:52:29.699 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:52:30.040 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:52:30.285 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 247.9956ms
+2025-06-07 17:52:30.597 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:52:30.597 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:52:30.608 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 10.3263ms
+2025-06-07 17:52:30.653 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.7395ms
+2025-06-07 17:52:30.872 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:52:30.894 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.2183ms
+2025-06-07 17:53:03.508 +02:00 [INF] Starting web application
+2025-06-07 17:53:04.179 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 17:53:04.186 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 17:53:04.325 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 17:53:04.327 +02:00 [INF] Hosting environment: Development
+2025-06-07 17:53:04.329 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 17:53:04.475 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 17:53:04.675 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 200.4472ms
+2025-06-07 17:53:04.727 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 17:53:04.727 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 17:53:04.736 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 8.4602ms
+2025-06-07 17:53:04.773 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.9964ms
+2025-06-07 17:53:04.994 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 17:53:05.010 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 16.49ms
+2025-06-07 17:53:16.492 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/55775 - null null
+2025-06-07 17:53:16.507 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:53:16.548 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 17:53:16.566 +02:00 [INF] Getting vehicle with registration number 55775
+2025-06-07 17:53:17.548 +02:00 [INF] Saved 9 entities to in-memory store.
+2025-06-07 17:53:17.664 +02:00 [WRN] Long Running Request: GetVehicleByRegNumQuery (1047 milliseconds) {"RegNum":55775,"$type":"GetVehicleByRegNumQuery"}
+2025-06-07 17:53:17.682 +02:00 [INF] Executing OkObjectResult, writing value of type 'Carpro.Application.Vehicles.DTOs.VehicleDto'.
+2025-06-07 17:53:17.698 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 1141.0204ms
+2025-06-07 17:53:17.701 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 17:53:17.707 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/55775 - 200 null application/json; charset=utf-8 1215.0714ms
+2025-06-07 18:05:02.683 +02:00 [INF] Starting web application
+2025-06-07 18:05:03.395 +02:00 [INF] Now listening on: https://localhost:7164
+2025-06-07 18:05:03.400 +02:00 [INF] Now listening on: http://localhost:5228
+2025-06-07 18:05:03.537 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-07 18:05:03.539 +02:00 [INF] Hosting environment: Development
+2025-06-07 18:05:03.540 +02:00 [INF] Content root path: C:\projects\carpro\Carpro.Api
+2025-06-07 18:05:03.920 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2025-06-07 18:05:04.179 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 259.9378ms
+2025-06-07 18:05:04.204 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-07 18:05:04.218 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 13.7638ms
+2025-06-07 18:05:04.365 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2025-06-07 18:05:04.431 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.0816ms
+2025-06-07 18:05:04.807 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2025-06-07 18:05:04.826 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 18.3316ms
+2025-06-07 18:05:20.841 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7164/api/Vehicles/55775 - null null
+2025-06-07 18:05:20.854 +02:00 [INF] Executing endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 18:05:20.896 +02:00 [INF] Route matched with {action = "GetVehicleByRegNum", controller = "Vehicles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Carpro.Application.Vehicles.DTOs.VehicleDto]] GetVehicleByRegNum(Int32) on controller Carpro.Api.Controllers.VehiclesController (Carpro.Api).
+2025-06-07 18:05:20.913 +02:00 [INF] Getting vehicle with registration number 55775
+2025-06-07 18:05:21.809 +02:00 [INF] Saved 9 entities to in-memory store.
+2025-06-07 18:05:21.954 +02:00 [WRN] Long Running Request: GetVehicleByRegNumQuery (994 milliseconds) {"RegNum":55775,"$type":"GetVehicleByRegNumQuery"}
+2025-06-07 18:05:21.970 +02:00 [INF] Executing OkObjectResult, writing value of type 'Carpro.Application.Vehicles.DTOs.VehicleDto'.
+2025-06-07 18:05:21.984 +02:00 [INF] Executed action Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api) in 1079.3908ms
+2025-06-07 18:05:21.987 +02:00 [INF] Executed endpoint 'Carpro.Api.Controllers.VehiclesController.GetVehicleByRegNum (Carpro.Api)'
+2025-06-07 18:05:21.993 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7164/api/Vehicles/55775 - 200 null application/json; charset=utf-8 1151.7807ms

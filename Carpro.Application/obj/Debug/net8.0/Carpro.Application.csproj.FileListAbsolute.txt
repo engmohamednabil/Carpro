@@ -1,0 +1,16 @@
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.csproj.AssemblyReference.cache
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.AssemblyInfoInputs.cache
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.AssemblyInfo.cs
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.csproj.CoreCompileInputs.cache
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.sourcelink.json
+C:\projects\carpro\Carpro.Application\bin\Debug\net8.0\Carpro.Application.deps.json
+C:\projects\carpro\Carpro.Application\bin\Debug\net8.0\Carpro.Application.dll
+C:\projects\carpro\Carpro.Application\bin\Debug\net8.0\Carpro.Application.pdb
+C:\projects\carpro\Carpro.Application\bin\Debug\net8.0\Carpro.Domain.dll
+C:\projects\carpro\Carpro.Application\bin\Debug\net8.0\Carpro.Domain.pdb
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.A.32F7662E.Up2Date
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.dll
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\refint\Carpro.Application.dll
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\Carpro.Application.pdb
+C:\projects\carpro\Carpro.Application\obj\Debug\net8.0\ref\Carpro.Application.dll

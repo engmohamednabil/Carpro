@@ -1,0 +1,6 @@
+@Carpro.Api_HostAddress = http://localhost:5228
+
+GET {{Carpro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
